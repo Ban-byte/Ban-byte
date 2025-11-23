@@ -16,7 +16,6 @@ Me chamo Gustavo Carlos, tenho 20 anos, sou natural do Distrito Federal e atualm
 
 </p>
 
-<br/>
 
 ### 📂 Projetos Relevantes
 - **Projeto 1 – Repositorio Pra Criação De Jogos, Com HTML,CSS,JS,C,C++,Etc.**  
