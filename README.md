@@ -14,12 +14,10 @@ Me chamo Gustavo Carlos, tenho 20 anos, sou natural do Distrito Federal e atualm
 📊 Estatísticas do GitHub
 <p> <img align="left" alt="Estatísticas GitHub" height="200" src="https://github-readme-stats.vercel.app/api?username=Ban-byte&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
 
-<img align="left" alt="Linguagens mais usadas" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ban-byte&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
-
 </p>
 
 <br/><br/>
----
+
 
 ### 📂 Projetos Relevantes
 - **Projeto 1 – Repositorio Pra Criação De Jogos, Com HTML,CSS,JS,C,C++,Etc.**  
