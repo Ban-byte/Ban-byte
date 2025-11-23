@@ -17,3 +17,8 @@ Me chamo Gustavo Carlos, tenho 20 anos, sou natural do Distrito Federal e atualm
 <img align="left" alt="Linguagens mais usadas" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ban-byte&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
 
 </p>
+
+### 📂 Projetos Relevantes
+- **Projeto 1 – Repositorio Pra Criação De Jogos, Com HTML,CSS,JS,C,C++,Etc.**  
+  Atualmente 23/11/2025, Apenas Um Jogo Simples, Chamado Square, Feito em HTML,CSS,JS.  
+  🔗 [Acessar Repositório](https://github.com/Ban-byte/Trying_Games/tree/main)
