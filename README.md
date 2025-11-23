@@ -18,6 +18,7 @@ Me chamo Gustavo Carlos, tenho 20 anos, sou natural do Distrito Federal e atualm
 
 </p>
 
+<br/><br/>
 ---
 
 ### 📂 Projetos Relevantes
